@@ -8,7 +8,31 @@
 
 #include<iostream>
 using namespace std;
-int main(){
+class Employee{
+    private:
+        int a,b,c;
 
+    public:
+        int d,e;
+        void setdata(int a1, int b1 ,int c1);         //function declaration
+        void getdata(){
+            cout<<"The value of a,b,c are "<<a<<" ,"<<b<<" ,"<<c<<" ,"<<d<<" ,"<<e<<endl;
+        }
+
+};
+void Employee::setdata(int a1, int b1, int c1){
+    a=a1;
+    b=b1;
+    c=c1;
+}
+int main(){
+    Employee harry;
+    harry.d=4;
+    harry.e=5;
+    // a is private, so it cannot be daclared directly
+    //it can be assessed by some function which is inside the class
+    // harry.a=34;
+    harry.setdata(1,2,3);
+    harry.getdata();
     return 0;
 }

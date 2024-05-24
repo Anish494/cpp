@@ -11,6 +11,7 @@ int main(){
     for (int i=0;i<4;i++){
         cout<<marks[i]<<endl;
     }
+    
     cout<<"Prgm terminated"<<endl;
 
 
