@@ -13,6 +13,7 @@ class Num{
             cout<<"This is the time when constructor is called for object number "<<::count<<endl;
         }
 
+//~ ----> this sign is called tilde
         ~Num(){
             cout<<"This is the time when desnstructor is called for object number "<<::count<<endl;
             ::count--;

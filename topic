@@ -1,0 +1,227 @@
+//TOPICS
+
+
+1
+Introduction to C++, Installing VS Code, g++ & more | C++ Tutorials for Beginners #1
+
+2
+Basic Structure of a C++ Program | C++ Tutorials for Beginners #2
+CodeWithHarry
+
+3
+Variables & Comments in C++ in Hindi | C++ Tutorials for Beginners #3
+
+4
+Variable Scope & Data Types in C++ in Hindi | C++ Tutorials for Beginners #4
+
+5
+C++ Basic Input/Output & More | C++ Tutorials for Beginners #5
+
+6
+C++ Header files & Operators | C++ Tutorials for Beginners #6
+
+7
+C++ Reference Variables & Typecasting | C++ Tutorials for Beginners #7
+
+8
+Constants, Manipulators & Operator Precedence | C++ Tutorials for Beginners #8
+
+9
+C++ Control Structures, If Else and Switch-Case Statement | C++ Tutorials for Beginners #9
+
+10
+For, While and do-while loops in C++ | C++ Tutorials for Beginners #10
+
+11
+Break and Continue Statements in C++ | C++ Tutorials for Beginners #11
+
+12
+Pointers in C++ | C++ Tutorials for Beginners #12
+
+13
+Arrays & Pointers Arithmetic in C++ | C++ Tutorials for Beginners #13
+
+14
+Structures, Unions & Enums in C++ | C++ Tutorials for Beginners #14
+
+15
+Functions & Function Prototypes in C++ | C++ Tutorials for Beginners #15
+
+16
+Call by Value & Call by Reference in C++ | C++ Tutorials for Beginners #16
+
+17
+Inline Functions, Default Arguments & Constant Arguments in C++ | C++ Tutorials for Beginners #17
+
+18
+Recursions & Recursive Functions in C++ | C++ Tutorials for Beginners #18
+
+19
+Function Overloading with Examples in C++ | C++ Tutorials for Beginners #19
+
+20
+Object Oriented Programming in C++ | C++ Tutorials for Beginners #20
+
+21
+Classes, Public and Private access modifiers in C++ | C++ Tutorials for Beginners #21
+
+22
+OOPs Recap & Nesting of Member Functions in C++ | C++ Tutorials for Beginners #22
+
+23
+C++ Objects Memory Allocation & using Arrays in Classes | C++ Tutorials for Beginners #23
+
+24
+Static Data Members & Methods in C++ OOPS | C++ Tutorials for Beginners #24
+
+25
+Array of Objects & Passing Objects as Function Arguments in C++ | C++ Tutorials for Beginners #25
+
+26
+Friend Functions in C++ | C++ Tutorials for Beginners #26
+
+27
+Friend Classes & Member Friend Functions in C++ | C++ Tutorials for Beginners #27
+
+28
+More on C++ Friend Functions (Examples & Explanation) | C++ Tutorials for Beginners #28
+
+29
+Constructors In C++ | C++ Tutorials for Beginners #29
+
+30
+Parameterized and Default Constructors In C++ | C++ Tutorials for Beginners #30
+
+31
+Constructor Overloading In C++ | C++ Tutorials for Beginners #31
+
+32
+Constructors With Default Arguments In C++ | C++ Tutorials for Beginners #32
+
+33
+Dynamic Initialization of Objects Using Constructors | C++ Tutorials for Beginners #33
+
+34
+Copy Constructor in C++ | C++ Tutorials for Beginners #34
+
+35
+Destructor in C++ in Hindi | C++ Tutorials for Beginners #35
+
+36
+Inheritance & Its Different Types with Examples in C++ | C++ Tutorials for Beginners #36
+
+37
+Inheritance Syntax & Visibility Mode in C++ | C++ Tutorials for Beginners #37
+
+38
+Single Inheritance Deep Dive: Examples + Code | C++ Tutorials for Beginners #38
+
+39
+Protected Access Modifier in C++ | C++ Tutorials for Beginners #39
+
+40
+Multilevel Inheritance Deep Dive with Code Example in C++ | C++ Tutorials for Beginners #40
+
+41
+Multiple Inheritance Deep Dive with Code Example in C++ | C++ Tutorials for Beginners #41
+
+42
+Exercise on C++ Inheritance | C++ Tutorials for Beginners #42
+
+43
+Ambiguity Resolution in Inheritance in C++ | C++ Tutorials for Beginners #43
+
+44
+Virtual Base Class in C++ | C++ Tutorials for Beginners #44
+
+45
+Code Example Demonstrating Virtual Base Class in C++ | C++ Tutorials for Beginners #45
+
+46
+Constructors in Derived Class in C++ | C++ Tutorials for Beginners #46
+
+47
+Solution to Exercise on Cpp Inheritance | C++ Tutorials for Beginners #47
+
+48
+Code Example: Constructors in Derived Class in Cpp | C++ Tutorials for Beginners #48
+
+49
+Initialization list in Constructors in Cpp | C++ Tutorials for Beginners #49
+
+50
+Revisiting Pointers: new and delete Keywords in CPP | C++ Tutorials for Beginners #50
+
+51
+Pointers to Objects and Arrow Operator in CPP | C++ Tutorials for Beginners #51
+
+52
+Array of Objects Using Pointers in C++ | C++ Tutorials for Beginners #52
+
+53
+this Pointer in C++ | C++ Tutorials for Beginners #53
+
+54
+Polymorphism in C++ | C++ Tutorials for Beginners #54
+
+55
+Pointers to Derived Classes in C++ | C++ Tutorials for Beginners #55
+
+56
+Virtual Functions in C++ | C++ Tutorials for Beginners #56
+
+57
+Virtual Functions Example + Creation Rules in C++ | C++ Tutorials for Beginners #57
+
+58
+Abstract Base Class & Pure Virtual Functions in C++ | C++ Tutorials for Beginners #58
+
+59
+File I/O in C++: Working with Files | C++ Tutorials for Beginners #59
+
+60
+File I/O in C++: Reading and Writing Files | C++ Tutorials for Beginners #60
+
+61
+File I/O in C++: Read/Write in the Same Program & Closing Files | C++ Tutorials for Beginners #61
+
+62
+File I/O in C++: open() and eof() functions | C++ Tutorials for Beginners #62
+
+63
+C++ Templates: Must for Competitive Programming | C++ Tutorials for Beginners #63
+
+64
+Writing our First C++ Template in VS Code | C++ Tutorials for Beginners #64
+
+65
+C++ Templates: Templates with Multiple Parameters | C++ Tutorials for Beginners #65
+
+66
+C++ Templates: Class Templates with Default Parameters | C++ Tutorials for Beginners #66
+
+67
+C++ Function Templates & Function Templates with Parameters | C++ Tutorials for Beginners #67
+
+68
+Member Function Templates & Overloading Template Functions in C++ | C++ Tutorials for Beginners #68
+
+69
+The C++ Standard Template Library (STL) | C++ Tutorials for Beginners #69
+
+70
+Containers in C++ STL | C++ Tutorials for Beginners #70
+
+71
+Vector In C++ STL | C++ Tutorials for Beginners #71
+
+72
+List In C++ STL | C++ Tutorials for Beginners #72
+
+73
+Map In C++ STL | C++ Tutorials for Beginners #73
+
+74
+Function Objects (Functors) In C++ STL | C++ Tutorials for Beginners #74
+
+
