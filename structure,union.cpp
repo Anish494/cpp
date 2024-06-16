@@ -40,5 +40,4 @@ int main(){
     cout<<(m1==1)<<endl;        //which is true, so output is 1
     cout<<(m1==2)<<endl;        //which is false, so output is 0 
     
-
 }

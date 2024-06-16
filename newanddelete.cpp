@@ -1,3 +1,9 @@
+//since new and delete manipulate memory in free store, they are also known as free store operators
+
+//a data object created inside a block with new will remain in existence until it is explicitely destroyed
+//using delete
+//thus, lifetime of variable is directly under our control
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -9,6 +15,10 @@ int main(){
                                                  //declaration or assign it later                   
     int *p=new int;                   
     *p=9;
+    if(!p)
+    {
+        cout<<"allocation failed";
+    }
     cout<<"The value at address p is "<< *p<<endl;          //* in int is compulsory
     // cout<<"The value at address p is "<< p<<endl;
     delete p;
@@ -44,8 +54,6 @@ int main(){
     
     cout<<"The value of array is "<<arr[0]<<" , "<<arr[1]<<" , "<<arr[2]<<" , "
                                   <<arr[3]<<" , "<<arr[4]<<" , "<<arr[5]<<endl;
-    
-
     
 
     return 0;
