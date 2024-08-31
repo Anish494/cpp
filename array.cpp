@@ -8,9 +8,9 @@ int main(){
     cout<<marks[2]<<endl;
     cout<<marks[3]<<endl;
     cout<<"Print using loop:"<<endl;
-    for (int i=0;i<4;i++){
-        cout<<marks[i]<<endl;
-    }
+    for (int i=0 ;i<4;i++){
+        cout << marks[i]<<endl;
+    } 
     
     cout<<"Prgm terminated"<<endl;
 

@@ -12,6 +12,7 @@ class Employee {
         void getId(){
             cout<<"Id of Employee is : "<<id<<endl;
         }
+        
 };
 int main(){
     // if we have fixed small number of objects, we can do this

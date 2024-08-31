@@ -13,9 +13,7 @@
 //inline function is a special type of function that applies the code in the function 
 //directly to the place where it is called i.e. the code directly gets replaced to the calling function
 
-inline int product(int a,int b){
-    return a*b;
-}
+int product(int a,int b);
 
 int func(int a,int b){
 
@@ -25,6 +23,9 @@ int func(int a,int b){
     static int c=0;
     c++;
     return a+b+c;
+}
+inline int product(int a,int b){
+    return a*b;
 }
 
 
