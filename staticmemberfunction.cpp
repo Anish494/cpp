@@ -1,3 +1,5 @@
+//static member function and variable
+
 #include<iostream>
 using namespace std;
 class A{
